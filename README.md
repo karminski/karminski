@@ -13,6 +13,10 @@
 - [🍰 KCORES 一个致力于分享让钱包爆炸的各种败家物和垃圾佬信息的社区](https://kcores.com/reading)
 - [🍭 KCORES 开源硬件 repo](https://github.com/kcores)
 
+Metrics:  
+
+![Metrics](https://metrics.lecoq.io/karminski?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+
 <!--
 **karminski/karminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
