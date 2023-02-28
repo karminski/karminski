@@ -1,23 +1,24 @@
 这里是 Karminski-牙医, 你可以叫我牙医, 但我只是 ID 叫牙医, 并不是真的牙医.   
-所以牙齿有问题请到正规医疗机构就诊, 不要再给我发牙齿的 X 光片了...    
-
 职业码农, homelab 级垃圾佬, 前掘金技术总监, 专业服务器开光12年【手动滑稽】  
 
 在哪里可以找到我:
 
+- [🌱 Twitter](https://twitter.com/karminski3)
 - [🍧 知乎](https://www.zhihu.com/people/karminski/posts)  
 - [🍦 微博](https://weibo.com/2169039837)  
 - [🍫 Bilibili](https://space.bilibili.com/450407615)  
 
 我的项目:
 
-- [🍰 KCORES 一个致力于分享让钱包爆炸的各种败家物和垃圾佬信息的社区](https://kcores.com/reading)
 - [🍭 KCORES 开源硬件 repo](https://github.com/kcores)
+- [🍰 KCORES 一个致力于分享让钱包爆炸的各种败家物和垃圾佬信息的社区](https://kcores.com/reading)
 
-Metrics:  
+Coding Metrics:  
 
-![Metrics](https://metrics.lecoq.io/karminski?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+![Metrics](./github-metrics.svg)
 
+Riding Metrics:
+<iframe height='454' width='850' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/62277669/latest-rides/1d6de9703a5218aa3f42e57a70e2038f99b5063b'></iframe>
 <!--
 **karminski/karminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
