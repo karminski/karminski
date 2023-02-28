@@ -15,3 +15,5 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PERSONAL_PROFILE }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
