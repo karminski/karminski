@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.personal_profile }}
+          token: ${{ secrets.PERSONAL_PROFILE }}
