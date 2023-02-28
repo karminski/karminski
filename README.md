@@ -17,8 +17,6 @@ Coding Metrics:
 
 ![Metrics](./github-metrics.svg)
 
-Riding Metrics:
-<iframe height='454' width='850' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/62277669/latest-rides/1d6de9703a5218aa3f42e57a70e2038f99b5063b'></iframe>
 <!--
 **karminski/karminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
