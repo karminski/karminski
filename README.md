@@ -1,17 +1,17 @@
-这里是 Karminski-牙医, 你可以叫我牙医, 但我只是 ID 叫牙医, 并不是真的牙医.   
-职业码农, homelab 级垃圾佬, 前掘金技术总监, 专业服务器开光12年【手动滑稽】  
+Hi there, I'm karminski-牙医. A coder, road bike rider, server fortune teller, electronic waste collector, co-founder of KCORES, ex-director at IllaSoft, KingsoftOffice, Juejin.
 
-在哪里可以找到我:
+Touch me at:
 
 - [🌱 Twitter](https://twitter.com/karminski3)
-- [🍧 知乎](https://www.zhihu.com/people/karminski/posts)  
-- [🍦 微博](https://weibo.com/2169039837)  
+- [🍧 Zhihu](https://www.zhihu.com/people/karminski/posts)  
+- [🍦 Weibo](https://weibo.com/2169039837)  
 - [🍫 Bilibili](https://space.bilibili.com/450407615)  
+- [🚲 Strava](https://www.strava.com/athletes/62277669)
 
-我的项目:
+My Projects:
 
-- [🍭 KCORES 开源硬件 repo](https://github.com/kcores)
-- [🍰 KCORES 一个致力于分享让钱包爆炸的各种败家物和垃圾佬信息的社区](https://kcores.com/reading)
+- [🍭 KCORES opensource hardware repos](https://github.com/kcores)
+- [🍰 KCORES A community dedicated to sharing various electronic items that can make your wallet explode](https://kcores.com/reading)
 
 Coding Metrics:  
 
