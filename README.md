@@ -2,6 +2,7 @@ Hi there, I'm karminski-牙医. A coder, road bike rider, server fortune teller,
 
 Touch me at:
 
+- [🍱 Bento](https://bento.me/dr-karminski)
 - [🌱 Twitter](https://twitter.com/karminski3)
 - [🍧 Zhihu](https://www.zhihu.com/people/karminski/posts)  
 - [🍦 Weibo](https://weibo.com/2169039837)  
@@ -11,7 +12,8 @@ Touch me at:
 My Projects:
 
 - [🍭 KCORES opensource hardware repos](https://github.com/kcores)
-- [🍰 KCORES A community dedicated to sharing various electronic items that can make your wallet explode](https://kcores.com/reading)
+- [🍰 KCORES A professional publication covering consumer electronics and enterprise hardware](https://kcores.com)
+- [💻 cyberbus.net A professional forum focused on hardware, servers, 10G networks, storage, NAS, hacking, and related topics](https://cyberbus/net)
 
 Coding Metrics:  
 
