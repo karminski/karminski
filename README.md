@@ -13,7 +13,7 @@ My Projects:
 
 - [🍭 KCORES opensource hardware repos](https://github.com/kcores)
 - [🍰 KCORES A professional publication covering consumer electronics and enterprise hardware](https://kcores.com)
-- [💻 cyberbus.net A professional forum focused on hardware, servers, 10G networks, storage, NAS, hacking, and related topics](https://cyberbus/net)
+- [💻 cyberbus.net A professional forum focused on hardware, servers, 10G networks, storage, NAS, hacking, and related topics](https://cyberbus.net)
 
 Coding Metrics:  
 
